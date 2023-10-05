@@ -1,0 +1,4 @@
+my:
+  message: hello world
+mysql:
+  url: localhost:3306/test
